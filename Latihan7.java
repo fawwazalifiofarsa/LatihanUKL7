@@ -1,4 +1,4 @@
-package ARandom;
+package LatihanUKL;
 public class Latihan7 {
      public static void main(String[] args) {
     //Inisialisasi variabel matrix A
